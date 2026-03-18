@@ -37,7 +37,7 @@ This project is a simple personal blog web application built using Flask. It all
 ## 📂 Project Structure
 
 - Personal-Blog/
-| - app/
+  - app/
     - __init__.py
     - models.py
     - auth/
