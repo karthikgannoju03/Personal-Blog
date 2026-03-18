@@ -34,6 +34,43 @@ This project is a simple personal blog web application built using Flask. It all
 
 ## 📂 Project Structure
 
+## 📂 Project Structure
+
+- Personal-Blog/
+  - app/
+    - __init__.py
+    - models.py
+    - auth/
+      - __init__.py
+      - routes.py
+      - forms.py
+    - main/
+      - __init__.py
+      - routes.py
+    - posts/
+      - __init__.py
+      - routes.py
+      - forms.py
+    - comments/
+      - __init__.py
+      - routes.py
+  - static/
+    - css/
+      - style.css
+  - templates/
+    - base.html
+    - index.html
+    - login.html
+    - register.html
+    - create_post.html
+    - post.html
+  - config.py
+  - run.py
+  - requirements.txt
+  - .gitignore
+  - README.md
+ 
+
 Personal-Blog/
 ├── app/
 │   ├─ __init__.py
