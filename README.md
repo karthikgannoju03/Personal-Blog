@@ -70,7 +70,7 @@ This project is a simple personal blog web application built using Flask. It all
   - .gitignore
   - README.md
  
-
+```
 Personal-Blog/
 ├── app/
 │   ├─ __init__.py
@@ -105,17 +105,7 @@ Personal-Blog/
 ├─ .gitignore
 └─ README.md
 
-
-
-
-
-
-
-
-
-
-
----
+```
 
 ## ⚙️ Setup Instructions
 
